@@ -1,0 +1,12 @@
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.deps.json
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.dll
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\bin\Debug\net6.0\GeekShopping.PaymentProcessor.pdb
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.csproj.AssemblyReference.cache
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfoInputs.cache
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.AssemblyInfo.cs
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.csproj.CoreCompileInputs.cache
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.dll
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\refint\GeekShopping.PaymentProcessor.dll
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\GeekShopping.PaymentProcessor.pdb
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.PaymentProcessor\obj\Debug\net6.0\ref\GeekShopping.PaymentProcessor.dll

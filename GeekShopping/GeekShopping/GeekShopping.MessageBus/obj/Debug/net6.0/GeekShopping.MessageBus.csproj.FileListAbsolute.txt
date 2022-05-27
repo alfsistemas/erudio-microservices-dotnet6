@@ -1,0 +1,12 @@
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.deps.json
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.AssemblyReference.cache
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfo.cs
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\refint\GeekShopping.MessageBus.dll
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb
+D:\Cursos\Arquitetura de Microserviços .Net 6\Fonte\GeekShopping\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\ref\GeekShopping.MessageBus.dll
